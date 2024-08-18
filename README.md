@@ -1,5 +1,5 @@
 # Joseph Monakedi 🚀
-![Image of Joseph](JOE.png)
+
 **Front-End Developer** aspiring to craft exceptional user experiences. 💻
 
 ### About Me
@@ -22,3 +22,4 @@ Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honin
 ### Contact
 * **Email:** josephmonakedi@email.com
 * **LinkedIn:** https://www.linkedin.com/in/traderjoe97/
+![Image of Joseph](JOE.png)
