@@ -1,5 +1,5 @@
 # Joseph Monakedi 🚀
-[Image of Joseph](JOE.png)
+![Image of Joseph](JOE.png)
 **Front-End Developer** aspiring to craft exceptional user experiences. 💻
 
 ### About Me
