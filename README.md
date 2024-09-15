@@ -54,6 +54,8 @@ Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraderJoe97&layout=donut-vertical)
 
+## Hobbies
+
 * **Cars:** I'm a car enthusiast who loves everything from classic muscle cars to electric vehicles. 🏎️
 * **Gaming:** A dedicated gamer who enjoys exploring different genres and virtual worlds. 🎮
 
