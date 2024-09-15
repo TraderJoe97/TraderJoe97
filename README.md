@@ -47,8 +47,12 @@ Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honin
 
 * **Project 1:** [Cache Bank](https://traderjoe97.github.io/SDF_Portfolio_Piece_CS20230347_WFO2407_Group-B_Joseph-Monakedi_SDF11) - A web page for a fictional bank called cache bank. this projects demonstrates proficiency in HTML, CSS & Tailwind CSS
 
+## Github stats
 
-## Interests
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraderJoe97&show_icons=true&theme=transparent)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraderJoe97&layout=donut-vertical)
 
 * **Cars:** I'm a car enthusiast who loves everything from classic muscle cars to electric vehicles. 🏎️
 * **Gaming:** A dedicated gamer who enjoys exploring different genres and virtual worlds. 🎮
