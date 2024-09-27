@@ -63,4 +63,3 @@ Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honin
 
 * **Email:** <jimonakedi@gmail.com>
 * **LinkedIn:** <https://www.linkedin.com/in/traderjoe97/>
-![Image of Joseph](JOE.png)
