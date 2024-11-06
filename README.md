@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honing my skills at Codespace. I love building beautiful and interactive web applications. 🌈
+Hey there! I'm Joseph Monakedi, a passionate front-end developer currently honing my skills at Codespace. I love building beautiful and interactive web applications. 
 
 ### Skills 
 <p align="left">
