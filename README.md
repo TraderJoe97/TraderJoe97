@@ -56,32 +56,32 @@ Below are some of my featured projects directly from my portfolio:
 ### insta-meets
 A real-time video chat platform that connects users instantly.  
 **Tech Stack:** React, TailwindCSS, TypeScript, Next.js, Node.js, MongoDB, Express.js, Socket.io, webRTC, simple-peer, shadCN  
-[Live Site](https://insta-meets.vercel.app) | [GitHub Repo](https://github.com)
+[Live Site](https://insta-meets.vercel.app) | [GitHub Repo](https://github.com/TraderJoe97/video_chat_site)
 
 ### Joes-Podcast_App
 A podcast streaming platform where users can listen to their favorite shows.  
 **Tech Stack:** React, TailwindCSS, JavaScript, TypeScript, Vite  
-[Live Site](https://joes-podcasts.netlify.app) | [GitHub Repo](https://github.com)
+[Live Site](https://joes-podcasts.netlify.app) | [GitHub Repo](https://github.com/TraderJoe97/CS20230347_WFO2407_Group-B_Joseph-Monakedi_DJS11.git)
 
 ### Shortly
 A URL shortening service that makes long links concise and easy to share.  
 **Tech Stack:** React, TailwindCSS, JavaScript, TypeScript, Vite  
-[Live Site](https://joes-shortly.netlify.app) | [GitHub Repo](https://github.com)
+[Live Site](https://joes-shortly.netlify.app) | [GitHub Repo](https://github.com/TraderJoe97/url-shortening-api)
 
 ### Kanban Task Management App
 An agile tool for managing and prioritizing tasks efficiently.  
 **Tech Stack:** HTML, CSS, JavaScript  
-[Live Site](https://agiletaskmanager.netlify.app) | [GitHub Repo](https://github.com)
+[Live Site](https://agiletaskmanager.netlify.app) | [GitHub Repo](https://github.com/TraderJoe97/CS20230347_WFO2407_Group-B_Joseph-Monakedi_JSL11.git)
 
 ### Joes van life
 A van rental platform that allows users to browse and rent vans effortlessly.  
 **Tech Stack:** React, TailwindCSS, JavaScript, React-Router  
-[Live Site](https://joesvanlife.netlify.app) | [GitHub Repo](https://github.com)
+[Live Site](https://joesvanlife.netlify.app) | [GitHub Repo](https://github.com/TraderJoe97/CS20230347_WFO2407_Group-B_Joseph-Monakedi_DJS08)
 
 ### Web Dashboard
 A dynamic web dashboard that displays real-time data from various APIs.  
 **Tech Stack:** React, TailwindCSS, JavaScript, React-Router  
-[Live Site](https://traderjoe97.github.io) | [GitHub Repo](https://github.com)
+[Live Site](https://traderjoe97.github.io) | [GitHub Repo](https://github.com/TraderJoe97/Module_09_CS20230347_WFO2407_Group-B_Joseph-Monakedi_JSL09)
 
 ## Github Stats
 
