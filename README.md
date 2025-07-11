@@ -1,6 +1,6 @@
 # Joseph Monakedi 🚀
 
-**Front-End Developer & Systems Developer in Training**  
+**FullStack Developer**  
 Passionate about crafting exceptional user experiences and innovative systems solutions.
 
 ## About Me
